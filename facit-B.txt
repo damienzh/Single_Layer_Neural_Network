@@ -2,6 +2,7 @@
 # Correct answers for training data (training.txt)
 # See http://www8.cs.umu.se/kurser/5DV121/HT12
 
+
 Image201 3
 Image202 1
 Image203 2
